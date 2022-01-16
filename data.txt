@@ -5,3 +5,4 @@
 [2022-01-12T21:20:06] Update README with usage examples
 [2022-01-13T09:48:54] Update linting rules and format codebase
 [2022-01-14T14:26:14] Handle network timeout and retry gracefully
+[2022-01-16T13:23:22] Add TypeScript types for API responses
