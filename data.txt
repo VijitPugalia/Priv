@@ -22,3 +22,4 @@
 [2022-01-27T21:54:56] Update project documentation and setup guide
 [2022-01-27T23:14:54] Fix minor styling bug in navigation header
 [2022-01-28T11:15:20] Add validation for form input fields
+[2022-01-28T16:15:22] Setup unit test suite and mock providers
