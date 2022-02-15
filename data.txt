@@ -36,3 +36,4 @@
 [2022-02-14T22:18:12] Optimize data parsing pipeline and reduce memory overhead
 [2022-02-15T13:51:03] Fix pagination offset calculation
 [2022-02-15T15:00:41] Fix minor styling bug in navigation header
+[2022-02-15T23:06:27] Fix UI layout responsiveness on mobile viewports
