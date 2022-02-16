@@ -39,3 +39,4 @@
 [2022-02-15T23:06:27] Fix UI layout responsiveness on mobile viewports
 [2022-02-16T16:30:51] Clean up unused imports and dead code
 [2022-02-16T18:28:27] Refactor route guards and redirect handling
+[2022-02-16T19:40:19] Update README with usage examples
