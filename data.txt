@@ -41,3 +41,4 @@
 [2022-02-16T18:28:27] Refactor route guards and redirect handling
 [2022-02-16T19:40:19] Update README with usage examples
 [2022-02-17T09:56:37] Refactor core utilities and helper functions
+[2022-02-17T16:29:12] Update README with usage examples
