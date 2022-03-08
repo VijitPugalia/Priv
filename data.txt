@@ -52,3 +52,4 @@
 [2022-03-07T21:48:53] Refactor core utilities and helper functions
 [2022-03-07T21:56:13] Update project documentation and setup guide
 [2022-03-08T10:02:52] Fix minor styling bug in navigation header
+[2022-03-08T19:48:13] Fix modal dialog focus trapping issue
