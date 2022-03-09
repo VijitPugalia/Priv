@@ -54,3 +54,4 @@
 [2022-03-08T10:02:52] Fix minor styling bug in navigation header
 [2022-03-08T19:48:13] Fix modal dialog focus trapping issue
 [2022-03-08T20:22:34] Fix UI layout responsiveness on mobile viewports
+[2022-03-09T20:57:17] Update dependency versions in package manifest
