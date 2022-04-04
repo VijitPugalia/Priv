@@ -64,3 +64,4 @@
 [2022-04-02T20:01:49] Add validation for form input fields
 [2022-04-04T10:15:18] Update CI/CD workflow configuration
 [2022-04-04T10:37:09] Migrate legacy functions to async/await syntax
+[2022-04-04T20:44:36] Fix edge case in date formatting helper
