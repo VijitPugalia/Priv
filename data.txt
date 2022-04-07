@@ -69,3 +69,4 @@
 [2022-04-06T12:59:15] Optimize image assets and SVGs
 [2022-04-06T14:11:52] Add unit tests for authentication flow
 [2022-04-06T15:36:37] Improve accessibility with ARIA landmarks
+[2022-04-07T13:14:58] Clean up unused imports and dead code
