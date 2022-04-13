@@ -80,3 +80,4 @@
 [2022-04-13T11:34:59] Migrate legacy functions to async/await syntax
 [2022-04-13T11:35:35] Refactor database query indexing strategy
 [2022-04-13T19:32:51] Optimize image assets and SVGs
+[2022-04-13T23:05:47] Fix edge case in date formatting helper
