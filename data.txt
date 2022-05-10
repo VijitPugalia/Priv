@@ -92,3 +92,4 @@
 [2022-05-10T13:02:00] Implement dark mode color tokens and theme switcher
 [2022-05-10T13:25:19] Fix modal dialog focus trapping issue
 [2022-05-10T14:10:04] Implement caching layer for fetch requests
+[2022-05-10T21:11:23] Migrate legacy functions to async/await syntax
