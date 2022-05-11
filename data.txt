@@ -93,3 +93,4 @@
 [2022-05-10T13:25:19] Fix modal dialog focus trapping issue
 [2022-05-10T14:10:04] Implement caching layer for fetch requests
 [2022-05-10T21:11:23] Migrate legacy functions to async/await syntax
+[2022-05-11T12:10:59] Refactor modular styling into theme tokens
