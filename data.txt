@@ -109,3 +109,4 @@
 [2022-05-25T23:13:55] Update linting rules and format codebase
 [2022-05-26T11:14:34] Refactor modular styling into theme tokens
 [2022-05-26T12:37:49] Migrate legacy functions to async/await syntax
+[2022-05-26T22:02:26] Update README with usage examples
