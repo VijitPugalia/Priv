@@ -113,3 +113,4 @@
 [2022-05-27T11:06:28] Implement caching layer for fetch requests
 [2022-05-27T23:47:50] Fix pagination offset calculation
 [2022-05-29T12:25:32] Refactor database query indexing strategy
+[2022-05-29T22:56:56] Fix modal dialog focus trapping issue
