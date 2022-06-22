@@ -130,3 +130,4 @@
 [2022-06-21T18:45:32] Fix modal dialog focus trapping issue
 [2022-06-21T19:27:03] Add validation for form input fields
 [2022-06-21T21:37:38] Clean up unused imports and dead code
+[2022-06-22T14:22:19] Improve API error handling and status code mapping
