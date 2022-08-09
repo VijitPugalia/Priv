@@ -186,3 +186,4 @@
 [2022-08-07T14:27:06] Refactor modular styling into theme tokens
 [2022-08-07T21:39:24] Clean up unused imports and dead code
 [2022-08-08T19:33:48] Migrate legacy functions to async/await syntax
+[2022-08-09T22:40:53] Refactor core utilities and helper functions
