@@ -194,3 +194,4 @@
 [2022-08-11T14:12:15] Handle network timeout and retry gracefully
 [2022-08-12T10:03:55] Migrate legacy functions to async/await syntax
 [2022-08-12T12:53:24] Handle network timeout and retry gracefully
+[2022-08-15T09:30:05] Fix pagination offset calculation
