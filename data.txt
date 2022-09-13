@@ -215,3 +215,4 @@
 [2022-09-12T20:28:01] Update project documentation and setup guide
 [2022-09-12T22:08:10] Fix UI layout responsiveness on mobile viewports
 [2022-09-13T11:36:06] Update project documentation and setup guide
+[2022-09-13T18:03:42] Optimize image assets and SVGs
