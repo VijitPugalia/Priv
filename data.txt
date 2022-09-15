@@ -220,3 +220,4 @@
 [2022-09-14T23:06:01] Refactor component state management
 [2022-09-15T14:29:10] Clean up unused imports and dead code
 [2022-09-15T19:21:56] Fix pagination offset calculation
+[2022-09-15T19:31:05] Improve API error handling and status code mapping
