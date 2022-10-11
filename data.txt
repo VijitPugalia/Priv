@@ -232,3 +232,4 @@
 [2022-10-09T21:29:35] Configure environment variables for production
 [2022-10-10T23:39:37] Optimize image assets and SVGs
 [2022-10-11T14:13:12] Update project documentation and setup guide
+[2022-10-11T15:07:43] Fix modal dialog focus trapping issue
