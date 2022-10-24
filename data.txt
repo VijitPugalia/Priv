@@ -264,3 +264,4 @@
 [2022-10-22T15:48:17] Implement debounce utility for search inputs
 [2022-10-24T13:18:44] Fix modal dialog focus trapping issue
 [2022-10-24T14:02:03] Setup unit test suite and mock providers
+[2022-10-24T14:10:47] Update dependency versions in package manifest
