@@ -262,3 +262,4 @@
 [2022-10-19T20:46:27] Refactor core utilities and helper functions
 [2022-10-19T22:06:02] Refactor modular styling into theme tokens
 [2022-10-22T15:48:17] Implement debounce utility for search inputs
+[2022-10-24T13:18:44] Fix modal dialog focus trapping issue
