@@ -270,3 +270,4 @@
 [2022-10-24T19:51:02] Update README with usage examples
 [2022-10-24T20:36:11] Fix modal dialog focus trapping issue
 [2022-10-28T13:33:30] Refactor component state management
+[2022-10-29T19:46:20] Fix UI layout responsiveness on mobile viewports
