@@ -279,3 +279,4 @@
 [2022-10-31T21:55:15] Add custom hooks for local storage sync
 [2022-11-01T09:33:34] Fix modal dialog focus trapping issue
 [2022-11-01T21:20:41] Refactor modular styling into theme tokens
+[2022-11-01T23:42:29] Optimize image assets and SVGs
