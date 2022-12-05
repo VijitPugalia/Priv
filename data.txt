@@ -325,3 +325,4 @@
 [2022-12-03T15:28:07] Implement dark mode color tokens and theme switcher
 [2022-12-03T19:20:04] Refactor CSS utility classes
 [2022-12-04T22:15:10] Fix pagination offset calculation
+[2022-12-05T22:11:38] Fix pagination offset calculation
