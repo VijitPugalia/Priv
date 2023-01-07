@@ -352,3 +352,4 @@
 [2023-01-06T18:36:28] Fix memory leak in event listener cleanup
 [2023-01-07T10:50:20] Improve API error handling and status code mapping
 [2023-01-07T17:57:39] Optimize data parsing pipeline and reduce memory overhead
+[2023-01-07T21:30:30] Update README with usage examples
