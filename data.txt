@@ -360,3 +360,4 @@
 [2023-01-09T12:41:15] Update dependency versions in package manifest
 [2023-01-09T14:27:28] Fix UI layout responsiveness on mobile viewports
 [2023-01-09T21:04:31] Update dependency versions in package manifest
+[2023-01-10T20:15:35] Add error boundary for client-side rendering
