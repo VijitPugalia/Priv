@@ -369,3 +369,4 @@
 [2023-01-27T09:29:34] Implement dark mode color tokens and theme switcher
 [2023-01-28T09:46:39] Implement dark mode color tokens and theme switcher
 [2023-01-28T12:29:46] Migrate legacy functions to async/await syntax
+[2023-01-30T18:47:33] Optimize image assets and SVGs
