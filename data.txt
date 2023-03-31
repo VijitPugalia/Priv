@@ -424,3 +424,4 @@
 [2023-03-27T21:26:30] Clean up unused imports and dead code
 [2023-03-28T20:35:51] Refactor route guards and redirect handling
 [2023-03-31T10:58:05] Optimize image assets and SVGs
+[2023-03-31T12:47:57] Improve API error handling and status code mapping
