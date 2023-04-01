@@ -428,3 +428,4 @@
 [2023-03-31T14:14:12] Fix modal dialog focus trapping issue
 [2023-03-31T20:33:19] Migrate legacy functions to async/await syntax
 [2023-04-01T20:28:56] Migrate legacy functions to async/await syntax
+[2023-04-01T20:36:47] Bump security patches in npm/pip lockfile
