@@ -432,3 +432,4 @@
 [2023-04-02T17:25:18] Fix edge case in date formatting helper
 [2023-04-02T20:50:55] Optimize data parsing pipeline and reduce memory overhead
 [2023-04-03T12:24:17] Optimize data parsing pipeline and reduce memory overhead
+[2023-04-03T15:16:18] Add error boundary for client-side rendering
