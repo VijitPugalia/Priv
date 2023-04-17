@@ -439,3 +439,4 @@
 [2023-04-05T19:44:14] Add custom hooks for local storage sync
 [2023-04-05T22:57:49] Update linting rules and format codebase
 [2023-04-06T18:27:31] Configure environment variables for production
+[2023-04-17T18:21:06] Clean up unused imports and dead code
