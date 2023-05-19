@@ -468,3 +468,4 @@
 [2023-05-18T20:06:53] Refactor core utilities and helper functions
 [2023-05-18T21:21:06] Optimize asset loading and bundle size
 [2023-05-18T23:55:01] Handle network timeout and retry gracefully
+[2023-05-19T22:12:35] Fix pagination offset calculation
