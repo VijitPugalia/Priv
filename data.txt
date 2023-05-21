@@ -473,3 +473,4 @@
 [2023-05-21T14:02:03] Fix minor styling bug in navigation header
 [2023-05-21T17:52:49] Refactor database query indexing strategy
 [2023-05-21T19:00:32] Fix minor styling bug in navigation header
+[2023-05-21T23:11:18] Fix pagination offset calculation
