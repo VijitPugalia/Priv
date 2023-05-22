@@ -476,3 +476,4 @@
 [2023-05-21T23:11:18] Fix pagination offset calculation
 [2023-05-22T09:26:03] Implement debounce utility for search inputs
 [2023-05-22T14:21:03] Migrate legacy functions to async/await syntax
+[2023-05-22T18:03:28] Setup unit test suite and mock providers
