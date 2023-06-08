@@ -482,3 +482,4 @@
 [2023-06-06T13:07:43] Implement dark mode color tokens and theme switcher
 [2023-06-06T23:02:36] Update project documentation and setup guide
 [2023-06-07T14:52:45] Refactor route guards and redirect handling
+[2023-06-08T13:58:15] Refactor core utilities and helper functions
