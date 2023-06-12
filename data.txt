@@ -493,3 +493,4 @@
 [2023-06-11T13:19:57] Enhance logging and telemetry metrics
 [2023-06-11T21:24:45] Add toast notification on asynchronous success
 [2023-06-11T23:11:13] Fix modal dialog focus trapping issue
+[2023-06-12T11:32:42] Fix edge case in date formatting helper
