@@ -495,3 +495,4 @@
 [2023-06-11T23:11:13] Fix modal dialog focus trapping issue
 [2023-06-12T11:32:42] Fix edge case in date formatting helper
 [2023-06-12T18:59:24] Optimize rendering lifecycle and reduce re-renders
+[2023-06-13T11:23:51] Bump security patches in npm/pip lockfile
