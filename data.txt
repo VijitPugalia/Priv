@@ -517,3 +517,4 @@
 [2023-06-18T20:14:22] Implement debounce utility for search inputs
 [2023-06-18T21:45:45] Migrate legacy functions to async/await syntax
 [2023-06-19T11:49:17] Update dependency versions in package manifest
+[2023-06-20T18:36:34] Fix modal dialog focus trapping issue
