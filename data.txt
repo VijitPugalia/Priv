@@ -528,3 +528,4 @@
 [2023-06-26T11:15:34] Add toast notification on asynchronous success
 [2023-06-26T12:20:11] Update README with usage examples
 [2023-06-26T16:17:48] Improve API error handling and status code mapping
+[2023-06-26T16:56:05] Migrate legacy functions to async/await syntax
