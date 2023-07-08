@@ -533,3 +533,4 @@
 [2023-07-07T11:31:16] Improve API error handling and status code mapping
 [2023-07-07T14:28:18] Fix UI layout responsiveness on mobile viewports
 [2023-07-07T23:12:32] Implement debounce utility for search inputs
+[2023-07-08T17:24:37] Fix edge case in date formatting helper
