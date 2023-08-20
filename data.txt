@@ -563,3 +563,4 @@
 [2023-08-18T23:11:19] Setup unit test suite and mock providers
 [2023-08-19T12:37:10] Migrate legacy functions to async/await syntax
 [2023-08-20T11:50:32] Update README with usage examples
+[2023-08-20T12:18:25] Fix modal dialog focus trapping issue
