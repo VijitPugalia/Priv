@@ -562,3 +562,4 @@
 [2023-08-18T22:38:00] Refactor route guards and redirect handling
 [2023-08-18T23:11:19] Setup unit test suite and mock providers
 [2023-08-19T12:37:10] Migrate legacy functions to async/await syntax
+[2023-08-20T11:50:32] Update README with usage examples
