@@ -618,3 +618,4 @@
 [2023-10-06T23:18:13] Fix modal dialog focus trapping issue
 [2023-10-22T10:20:22] Update README with usage examples
 [2023-10-22T16:03:51] Add validation for form input fields
+[2023-10-23T12:13:04] Migrate legacy functions to async/await syntax
