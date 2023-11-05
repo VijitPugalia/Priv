@@ -641,3 +641,4 @@
 [2023-10-31T23:54:58] Improve API error handling and status code mapping
 [2023-11-01T20:22:18] Add TypeScript types for API responses
 [2023-11-02T17:53:11] Enhance logging and telemetry metrics
+[2023-11-06T10:55:17] Fix pagination offset calculation
