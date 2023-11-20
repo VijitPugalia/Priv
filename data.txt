@@ -663,3 +663,4 @@
 [2023-11-20T10:13:54] Refactor CSS utility classes
 [2023-11-20T10:51:10] Fix edge case in date formatting helper
 [2023-11-20T14:29:41] Update linting rules and format codebase
+[2023-11-20T19:36:18] Configure environment variables for production
