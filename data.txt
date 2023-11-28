@@ -683,3 +683,4 @@
 [2023-11-28T14:49:10] Optimize rendering lifecycle and reduce re-renders
 [2023-11-28T17:20:51] Add toast notification on asynchronous success
 [2023-11-28T23:29:35] Improve test coverage for core algorithm
+[2023-11-29T10:37:26] Update README with usage examples
