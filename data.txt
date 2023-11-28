@@ -679,3 +679,4 @@
 [2023-11-27T21:28:10] Enhance logging and telemetry metrics
 [2023-11-27T23:47:44] Fix edge case in date formatting helper
 [2023-11-28T11:58:36] Setup unit test suite and mock providers
+[2023-11-28T13:03:30] Fix pagination offset calculation
