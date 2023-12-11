@@ -693,3 +693,4 @@
 [2023-12-10T14:30:00] Refactor route guards and redirect handling
 [2023-12-10T20:32:13] Fix edge case in date formatting helper
 [2023-12-10T23:45:00] Refactor component state management
+[2023-12-11T11:09:59] Improve API error handling and status code mapping
