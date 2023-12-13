@@ -696,3 +696,4 @@
 [2023-12-11T11:09:59] Improve API error handling and status code mapping
 [2023-12-11T19:03:45] Clean up unused imports and dead code
 [2023-12-12T18:47:47] Fix modal dialog focus trapping issue
+[2023-12-13T14:15:39] Add TypeScript types for API responses
