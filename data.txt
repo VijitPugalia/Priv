@@ -717,3 +717,4 @@
 [2023-12-23T19:35:17] Fix minor styling bug in navigation header
 [2023-12-24T23:10:35] Add TypeScript types for API responses
 [2024-01-04T13:03:08] Update dependency versions in package manifest
+[2024-01-04T15:54:29] Migrate legacy functions to async/await syntax
