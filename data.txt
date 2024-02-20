@@ -738,3 +738,4 @@
 [2024-02-20T16:10:01] Implement dark mode color tokens and theme switcher
 [2024-02-20T19:09:21] Clean up unused imports and dead code
 [2024-02-20T22:29:54] Add custom hooks for local storage sync
+[2024-02-20T23:53:49] Update README with usage examples
