@@ -762,3 +762,4 @@
 [2024-02-28T18:35:36] Add toast notification on asynchronous success
 [2024-02-28T20:05:08] Update README with usage examples
 [2024-02-28T21:56:49] Refactor component state management
+[2024-02-29T11:42:10] Fix modal dialog focus trapping issue
