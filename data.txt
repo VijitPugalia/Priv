@@ -798,3 +798,4 @@
 [2024-03-25T11:36:45] Add validation for form input fields
 [2024-03-25T13:07:33] Fix minor styling bug in navigation header
 [2024-03-25T14:21:07] Update README with usage examples
+[2024-03-25T22:17:38] Fix modal dialog focus trapping issue
