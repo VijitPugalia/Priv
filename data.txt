@@ -804,3 +804,4 @@
 [2024-03-27T09:46:10] Optimize data parsing pipeline and reduce memory overhead
 [2024-03-27T12:33:36] Implement dark mode color tokens and theme switcher
 [2024-03-27T14:30:36] Update dependency versions in package manifest
+[2024-04-02T20:06:43] Fix pagination offset calculation
