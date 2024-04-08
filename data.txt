@@ -819,3 +819,4 @@
 [2024-04-06T18:30:35] Update linting rules and format codebase
 [2024-04-07T13:04:22] Add TypeScript types for API responses
 [2024-04-08T16:39:37] Add toast notification on asynchronous success
+[2024-04-08T19:18:01] Refactor core utilities and helper functions
