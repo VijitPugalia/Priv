@@ -821,3 +821,4 @@
 [2024-04-08T16:39:37] Add toast notification on asynchronous success
 [2024-04-08T19:18:01] Refactor core utilities and helper functions
 [2024-04-08T23:36:41] Refactor modular styling into theme tokens
+[2024-04-09T23:38:17] Improve API error handling and status code mapping
