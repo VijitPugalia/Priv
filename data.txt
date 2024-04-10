@@ -824,3 +824,4 @@
 [2024-04-09T23:38:17] Improve API error handling and status code mapping
 [2024-04-10T09:08:08] Improve test coverage for core algorithm
 [2024-04-10T09:18:47] Fix minor styling bug in navigation header
+[2024-04-10T22:19:01] Fix modal dialog focus trapping issue
