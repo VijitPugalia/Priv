@@ -836,3 +836,4 @@
 [2024-04-18T21:39:56] Fix pagination offset calculation
 [2024-04-19T14:08:54] Update README with usage examples
 [2024-04-19T16:16:58] Fix UI layout responsiveness on mobile viewports
+[2024-04-22T09:39:59] Migrate legacy functions to async/await syntax
