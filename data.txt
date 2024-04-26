@@ -846,3 +846,4 @@
 [2024-04-24T18:13:24] Fix minor styling bug in navigation header
 [2024-04-25T09:13:01] Fix modal dialog focus trapping issue
 [2024-04-25T17:58:46] Improve test coverage for core algorithm
+[2024-04-26T11:59:11] Add custom hooks for local storage sync
