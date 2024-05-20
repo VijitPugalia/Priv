@@ -872,3 +872,4 @@
 [2024-05-20T12:49:31] Improve test coverage for core algorithm
 [2024-05-20T13:25:40] Optimize rendering lifecycle and reduce re-renders
 [2024-05-20T15:30:55] Add TypeScript types for API responses
+[2024-05-20T19:53:49] Fix pagination offset calculation
