@@ -886,3 +886,4 @@
 [2024-05-23T15:17:20] Implement dark mode color tokens and theme switcher
 [2024-05-23T20:29:49] Add error boundary for client-side rendering
 [2024-05-23T20:33:59] Optimize rendering lifecycle and reduce re-renders
+[2024-05-23T22:51:21] Update README with usage examples
