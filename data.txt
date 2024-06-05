@@ -907,3 +907,4 @@
 [2024-06-04T17:45:06] Update dependency versions in package manifest
 [2024-06-05T09:33:33] Fix modal dialog focus trapping issue
 [2024-06-05T14:24:59] Add validation for form input fields
+[2024-06-05T17:09:15] Fix modal dialog focus trapping issue
