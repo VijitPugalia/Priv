@@ -949,3 +949,4 @@
 [2024-07-01T14:00:11] Fix UI layout responsiveness on mobile viewports
 [2024-07-01T14:41:49] Add toast notification on asynchronous success
 [2024-07-01T16:04:17] Improve API error handling and status code mapping
+[2024-07-02T13:58:18] Update README with usage examples
