@@ -994,3 +994,4 @@
 [2024-07-26T19:20:33] Update README with usage examples
 [2024-07-27T12:31:50] Implement debounce utility for search inputs
 [2024-07-27T16:27:10] Implement debounce utility for search inputs
+[2024-07-27T19:24:18] Improve API error handling and status code mapping
