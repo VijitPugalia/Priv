@@ -1001,3 +1001,4 @@
 [2024-07-29T18:31:09] Improve API error handling and status code mapping
 [2024-07-29T23:40:54] Add custom hooks for local storage sync
 [2024-07-30T21:29:05] Update CI/CD workflow configuration
+[2024-07-30T22:44:15] Fix modal dialog focus trapping issue
