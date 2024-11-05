@@ -1108,3 +1108,4 @@
 [2024-11-04T21:55:25] Add TypeScript types for API responses
 [2024-11-05T11:29:08] Fix pagination offset calculation
 [2024-11-05T13:35:38] Clean up unused imports and dead code
+[2024-11-05T13:45:06] Improve accessibility with ARIA landmarks
