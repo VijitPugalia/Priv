@@ -1109,3 +1109,4 @@
 [2024-11-05T11:29:08] Fix pagination offset calculation
 [2024-11-05T13:35:38] Clean up unused imports and dead code
 [2024-11-05T13:45:06] Improve accessibility with ARIA landmarks
+[2024-11-05T14:42:59] Update README with usage examples
