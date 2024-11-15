@@ -1137,3 +1137,4 @@
 [2024-11-14T09:34:16] Fix UI layout responsiveness on mobile viewports
 [2024-11-14T20:13:30] Update CI/CD workflow configuration
 [2024-11-15T10:43:34] Implement debounce utility for search inputs
+[2024-11-15T11:02:33] Fix pagination offset calculation
