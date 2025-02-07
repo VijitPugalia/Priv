@@ -1299,3 +1299,4 @@
 [2025-02-06T23:53:26] Update dependency versions in package manifest
 [2025-02-07T13:24:59] Improve test coverage for core algorithm
 [2025-02-07T21:57:14] Update README with usage examples
+[2025-02-07T22:21:02] Update project documentation and setup guide
