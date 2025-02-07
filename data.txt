@@ -1298,3 +1298,4 @@
 [2025-02-06T23:38:43] Optimize image assets and SVGs
 [2025-02-06T23:53:26] Update dependency versions in package manifest
 [2025-02-07T13:24:59] Improve test coverage for core algorithm
+[2025-02-07T21:57:14] Update README with usage examples
