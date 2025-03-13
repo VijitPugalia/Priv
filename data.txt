@@ -1380,3 +1380,4 @@
 [2025-03-12T23:11:31] Refactor database query indexing strategy
 [2025-03-13T15:57:20] Add custom hooks for local storage sync
 [2025-03-13T17:08:15] Add custom hooks for local storage sync
+[2025-03-13T17:56:59] Improve API error handling and status code mapping
