@@ -1475,3 +1475,4 @@
 [2025-04-23T20:13:34] Clean up unused imports and dead code
 [2025-04-23T21:15:36] Update CI/CD workflow configuration
 [2025-04-24T12:50:04] Bump security patches in npm/pip lockfile
+[2025-04-24T15:13:09] Improve API error handling and status code mapping
