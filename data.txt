@@ -1480,3 +1480,4 @@
 [2025-04-25T14:33:04] Improve test coverage for core algorithm
 [2025-04-26T12:46:08] Implement caching layer for fetch requests
 [2025-04-26T15:49:23] Clean up unused imports and dead code
+[2025-04-26T18:28:36] Fix pagination offset calculation
