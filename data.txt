@@ -1570,3 +1570,4 @@
 [2025-05-31T23:26:09] Optimize image assets and SVGs
 [2025-05-31T23:34:58] Update project documentation and setup guide
 [2025-06-01T11:45:09] Bump security patches in npm/pip lockfile
+[2025-06-01T18:56:50] Fix pagination offset calculation
