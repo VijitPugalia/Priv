@@ -1589,3 +1589,4 @@
 [2025-06-16T19:18:11] Clean up unused imports and dead code
 [2025-06-16T20:28:14] Fix pagination offset calculation
 [2025-06-16T21:15:29] Refactor route guards and redirect handling
+[2025-06-16T22:14:13] Refactor core utilities and helper functions
