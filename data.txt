@@ -1666,3 +1666,4 @@
 [2025-07-08T22:15:13] Clean up unused imports and dead code
 [2025-07-08T22:40:29] Fix memory leak in event listener cleanup
 [2025-07-09T12:35:23] Fix modal dialog focus trapping issue
+[2025-07-09T13:14:32] Update README with usage examples
