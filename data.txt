@@ -1677,3 +1677,4 @@
 [2025-07-11T21:03:45] Update dependency versions in package manifest
 [2025-07-12T16:41:37] Fix minor styling bug in navigation header
 [2025-07-13T11:06:13] Fix edge case in date formatting helper
+[2025-07-13T18:07:19] Optimize asset loading and bundle size
