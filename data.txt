@@ -1686,3 +1686,4 @@
 [2025-07-15T15:07:26] Fix modal dialog focus trapping issue
 [2025-07-15T21:24:32] Refactor modular styling into theme tokens
 [2025-07-16T10:04:56] Optimize image assets and SVGs
+[2025-07-16T11:22:31] Clean up unused imports and dead code
