@@ -1699,3 +1699,4 @@
 [2025-07-18T09:01:37] Update CI/CD workflow configuration
 [2025-07-18T17:23:05] Update CI/CD workflow configuration
 [2025-07-18T18:33:50] Refactor route guards and redirect handling
+[2025-07-21T15:35:51] Fix modal dialog focus trapping issue
