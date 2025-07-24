@@ -1717,3 +1717,4 @@
 [2025-07-24T10:58:32] Bump security patches in npm/pip lockfile
 [2025-07-24T14:51:50] Add TypeScript types for API responses
 [2025-07-24T16:40:20] Add custom hooks for local storage sync
+[2025-07-24T17:11:41] Clean up unused imports and dead code
