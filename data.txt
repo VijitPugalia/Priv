@@ -1770,3 +1770,4 @@
 [2025-08-22T21:07:14] Improve accessibility with ARIA landmarks
 [2025-08-22T21:59:26] Configure environment variables for production
 [2025-08-22T22:06:27] Add toast notification on asynchronous success
+[2025-08-23T10:49:16] Update README with usage examples
