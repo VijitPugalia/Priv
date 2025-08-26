@@ -1782,3 +1782,4 @@
 [2025-08-25T16:13:47] Fix edge case in date formatting helper
 [2025-08-25T20:12:47] Improve test coverage for core algorithm
 [2025-08-25T20:38:48] Add unit tests for authentication flow
+[2025-08-26T12:51:37] Update README with usage examples
