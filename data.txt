@@ -1812,3 +1812,4 @@
 [2025-09-08T20:59:27] Fix edge case in date formatting helper
 [2025-09-08T22:15:30] Fix edge case in date formatting helper
 [2025-09-09T18:10:13] Update dependency versions in package manifest
+[2025-09-09T18:58:20] Refactor core utilities and helper functions
