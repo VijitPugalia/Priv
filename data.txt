@@ -1820,3 +1820,4 @@
 [2025-09-10T23:41:37] Fix pagination offset calculation
 [2025-09-11T21:11:00] Refactor CSS utility classes
 [2025-09-11T22:19:08] Refactor CSS utility classes
+[2025-09-11T23:54:39] Refactor core utilities and helper functions
