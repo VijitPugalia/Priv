@@ -1841,3 +1841,4 @@
 [2025-09-17T23:34:18] Update README with usage examples
 [2025-09-18T18:45:00] Update README with usage examples
 [2025-09-18T22:40:41] Fix modal dialog focus trapping issue
+[2025-09-19T11:01:26] Update README with usage examples
