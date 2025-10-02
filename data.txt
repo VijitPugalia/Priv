@@ -1874,3 +1874,4 @@
 [2025-10-01T17:19:49] Enhance logging and telemetry metrics
 [2025-10-01T18:35:38] Bump security patches in npm/pip lockfile
 [2025-10-01T23:51:54] Fix edge case in date formatting helper
+[2025-10-02T11:59:19] Improve API error handling and status code mapping
