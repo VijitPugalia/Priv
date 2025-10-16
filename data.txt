@@ -1917,3 +1917,4 @@
 [2025-10-15T21:18:24] Refactor database query indexing strategy
 [2025-10-16T18:11:55] Add custom hooks for local storage sync
 [2025-10-16T18:50:30] Add validation for form input fields
+[2025-10-16T21:12:08] Improve API error handling and status code mapping
