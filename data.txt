@@ -1933,3 +1933,4 @@
 [2025-10-24T22:49:46] Optimize asset loading and bundle size
 [2025-10-25T09:14:41] Add custom hooks for local storage sync
 [2025-10-25T10:02:26] Implement debounce utility for search inputs
+[2025-10-25T12:14:44] Fix pagination offset calculation
