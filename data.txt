@@ -1955,3 +1955,4 @@
 [2025-11-02T15:44:14] Improve API error handling and status code mapping
 [2025-11-02T23:34:23] Fix edge case in date formatting helper
 [2025-11-03T12:31:56] Update dependency versions in package manifest
+[2025-11-04T14:24:56] Migrate legacy functions to async/await syntax
