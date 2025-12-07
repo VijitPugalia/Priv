@@ -2032,3 +2032,4 @@
 [2025-12-06T18:32:15] Update project documentation and setup guide
 [2025-12-07T11:11:04] Refactor modular styling into theme tokens
 [2025-12-07T11:18:14] Add error boundary for client-side rendering
+[2025-12-07T12:23:26] Update README with usage examples
