@@ -2153,3 +2153,4 @@
 [2026-02-14T19:38:47] Improve accessibility with ARIA landmarks
 [2026-02-14T22:05:25] Refactor database query indexing strategy
 [2026-02-15T09:15:45] Implement dark mode color tokens and theme switcher
+[2026-02-15T09:47:41] Improve API error handling and status code mapping
