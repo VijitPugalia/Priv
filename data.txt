@@ -2221,3 +2221,4 @@
 [2026-03-16T09:55:45] Fix memory leak in event listener cleanup
 [2026-03-16T14:27:00] Fix modal dialog focus trapping issue
 [2026-03-16T22:55:12] Update linting rules and format codebase
+[2026-03-16T22:59:23] Clean up unused imports and dead code
