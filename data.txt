@@ -2258,3 +2258,4 @@
 [2026-03-28T13:02:55] Refactor component state management
 [2026-03-28T15:13:02] Refactor core utilities and helper functions
 [2026-03-28T19:50:51] Improve test coverage for core algorithm
+[2026-03-28T21:55:43] Improve API error handling and status code mapping
