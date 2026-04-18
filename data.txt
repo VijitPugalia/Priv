@@ -2294,3 +2294,4 @@
 [2026-04-18T10:01:14] Optimize rendering lifecycle and reduce re-renders
 [2026-04-18T11:27:26] Fix modal dialog focus trapping issue
 [2026-04-18T12:29:13] Add TypeScript types for API responses
+[2026-04-18T18:07:14] Update README with usage examples
