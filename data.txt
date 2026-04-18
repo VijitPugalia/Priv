@@ -2296,3 +2296,4 @@
 [2026-04-18T12:29:13] Add TypeScript types for API responses
 [2026-04-18T18:07:14] Update README with usage examples
 [2026-04-18T20:45:47] Enhance logging and telemetry metrics
+[2026-04-18T21:36:09] Handle network timeout and retry gracefully
