@@ -2323,3 +2323,4 @@
 [2026-05-08T17:48:32] Fix pagination offset calculation
 [2026-05-10T09:23:30] Clean up unused imports and dead code
 [2026-05-10T09:44:49] Update linting rules and format codebase
+[2026-05-10T09:55:14] Fix memory leak in event listener cleanup
