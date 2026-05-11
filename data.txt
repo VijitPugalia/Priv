@@ -2333,3 +2333,4 @@
 [2026-05-11T12:26:31] Improve test coverage for core algorithm
 [2026-05-11T12:59:06] Update README with usage examples
 [2026-05-12T09:35:23] Improve accessibility with ARIA landmarks
+[2026-05-12T09:41:39] Add error boundary for client-side rendering
