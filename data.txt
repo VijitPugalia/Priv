@@ -2340,3 +2340,4 @@
 [2026-05-13T23:00:25] Bump security patches in npm/pip lockfile
 [2026-05-14T09:10:47] Configure environment variables for production
 [2026-05-14T17:37:09] Update linting rules and format codebase
+[2026-05-14T18:51:05] Fix modal dialog focus trapping issue
