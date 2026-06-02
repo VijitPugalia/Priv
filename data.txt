@@ -2371,3 +2371,4 @@
 [2026-06-02T14:07:16] Fix edge case in date formatting helper
 [2026-06-02T17:31:43] Fix minor styling bug in navigation header
 [2026-06-02T20:44:02] Add unit tests for authentication flow
+[2026-06-02T21:45:30] Improve API error handling and status code mapping
