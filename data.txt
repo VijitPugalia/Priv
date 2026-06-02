@@ -2368,3 +2368,4 @@
 [2026-06-01T14:43:40] Improve API error handling and status code mapping
 [2026-06-01T15:02:04] Fix minor styling bug in navigation header
 [2026-06-02T14:06:11] Handle network timeout and retry gracefully
+[2026-06-02T14:07:16] Fix edge case in date formatting helper
