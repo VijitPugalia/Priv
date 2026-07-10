@@ -2438,3 +2438,4 @@
 [2026-07-01T18:53:37] Refactor route guards and redirect handling
 [2026-07-01T21:54:58] Implement debounce utility for search inputs
 [2026-07-10T15:08:08] Refactor component state management
+[2026-07-10T16:45:16] Update README with usage examples
