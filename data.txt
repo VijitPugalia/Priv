@@ -2447,3 +2447,4 @@
 [2026-07-11T19:14:02] Update CI/CD workflow configuration
 [2026-07-11T21:31:44] Update project documentation and setup guide
 [2026-07-11T21:41:30] Fix modal dialog focus trapping issue
+[2026-07-12T14:50:14] Improve API error handling and status code mapping
