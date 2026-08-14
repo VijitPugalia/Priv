@@ -2514,3 +2514,4 @@
 [2026-08-12T23:09:27] Optimize image assets and SVGs
 [2026-08-13T19:40:21] Optimize asset loading and bundle size
 [2026-08-14T09:49:22] Fix pagination offset calculation
+[2026-08-14T10:27:54] Add error boundary for client-side rendering
